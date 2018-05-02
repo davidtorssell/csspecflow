@@ -1,0 +1,14 @@
+/Users/davidtorssell/workspace/dotnet/SpecFlowProject/SpecFlowProject/bin/Debug/SpecFlowProject.dll.config
+/Users/davidtorssell/workspace/dotnet/SpecFlowProject/SpecFlowProject/bin/Debug/SpecFlowProject.dll
+/Users/davidtorssell/workspace/dotnet/SpecFlowProject/SpecFlowProject/bin/Debug/SpecFlowProject.pdb
+/Users/davidtorssell/workspace/dotnet/SpecFlowProject/SpecFlowProject/bin/Debug/nunit.framework.dll
+/Users/davidtorssell/workspace/dotnet/SpecFlowProject/SpecFlowProject/bin/Debug/TechTalk.SpecFlow.dll
+/Users/davidtorssell/workspace/dotnet/SpecFlowProject/SpecFlowProject/bin/Debug/nunit.framework.xml
+/Users/davidtorssell/workspace/dotnet/SpecFlowProject/SpecFlowProject/obj/Debug/SpecFlowProject.csprojResolveAssemblyReference.cache
+/Users/davidtorssell/workspace/dotnet/SpecFlowProject/SpecFlowProject/obj/Debug/SpecFlowProject.csproj.CoreCompileInputs.cache
+/Users/davidtorssell/workspace/dotnet/SpecFlowProject/SpecFlowProject/obj/Debug/SpecFlowProject.dll
+/Users/davidtorssell/workspace/dotnet/SpecFlowProject/SpecFlowProject/obj/Debug/SpecFlowProject.pdb
+/Users/davidtorssell/workspace/dotnet/SpecFlowProject/SpecFlowProject/bin/Debug/WebDriver.dll
+/Users/davidtorssell/workspace/dotnet/SpecFlowProject/SpecFlowProject/bin/Debug/WebDriver.Support.dll
+/Users/davidtorssell/workspace/dotnet/SpecFlowProject/SpecFlowProject/bin/Debug/WebDriver.xml
+/Users/davidtorssell/workspace/dotnet/SpecFlowProject/SpecFlowProject/bin/Debug/WebDriver.Support.xml
