@@ -21,10 +21,13 @@ namespace SpecFlowProject
         [Then(@"I should be able to see the link to the shopping cart")]
         public void ThenIShouldBeAbleToSeeTheLinkToTheShoppingCart()
         {
-            IWebElement shoppingCart = driver.FindElement(By.CssSelector(".minicart.parbahse"));
+            IWebElement shoppingCart = driver.FindElement(By.CssSelector(".minicart.parbase"));
         }
 
-
+        [After]
+        public void TearDown() {
+            driver.Close();
+        }
     }
 
 
