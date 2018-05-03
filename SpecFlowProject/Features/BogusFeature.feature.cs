@@ -10,7 +10,7 @@
 // ------------------------------------------------------------------------------
 #region Designer generated code
 #pragma warning disable
-namespace SpecFlowProject
+namespace SpecFlowProject.Features
 {
     using TechTalk.SpecFlow;
     
@@ -77,6 +77,23 @@ this.ScenarioSetup(scenarioInfo);
     testRunner.Given("I have navigated to \"http://www2.hm.com/sv_se/index.html\"", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
 #line 10
     testRunner.Then("I should be able to see the link to the shopping cart", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
+#line hidden
+            this.ScenarioCleanup();
+        }
+        
+        [NUnit.Framework.TestAttribute()]
+        [NUnit.Framework.DescriptionAttribute("Also doing some navigation and chilling for a bit")]
+        public virtual void AlsoDoingSomeNavigationAndChillingForABit()
+        {
+            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Also doing some navigation and chilling for a bit", ((string[])(null)));
+#line 12
+ this.ScenarioSetup(scenarioInfo);
+#line 13
+    testRunner.Given("I have navigated to \"https://diabol.se\"", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
+#line 14
+    testRunner.Then("I should be able to navigate to the about page", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
+#line 15
+        testRunner.And("chill for a while", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
 #line hidden
             this.ScenarioCleanup();
         }

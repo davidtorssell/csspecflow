@@ -12,3 +12,5 @@
 /Users/davidtorssell/workspace/dotnet/SpecFlowProject/SpecFlowProject/bin/Debug/WebDriver.Support.dll
 /Users/davidtorssell/workspace/dotnet/SpecFlowProject/SpecFlowProject/bin/Debug/WebDriver.xml
 /Users/davidtorssell/workspace/dotnet/SpecFlowProject/SpecFlowProject/bin/Debug/WebDriver.Support.xml
+/Users/davidtorssell/workspace/dotnet/SpecFlowProject/SpecFlowProject/bin/Debug/chromedriver
+/Users/davidtorssell/workspace/dotnet/SpecFlowProject/SpecFlowProject/obj/Debug/SpecFlowProject.csproj.CopyComplete
